@@ -2,7 +2,6 @@ def save_score(score):
     file = open("scores.txt", "a")
     file.write(score + "\n")
     file.close()
-
 def show_scores():                            
     print("\n===== SCORE HISTORY =====")
     file = open("scores.txt", "r")
