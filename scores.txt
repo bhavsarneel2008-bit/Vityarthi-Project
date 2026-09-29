@@ -1,0 +1,11 @@
+Tic Tac Toe - Player X Won
+Rock Paper Scissors - Tie
+Coin Toss - Won
+Number Guessing - Won
+Tic Tac Toe - Player O Won
+Dice Roll - 2
+Rock Paper Scissors - Won
+Coin Toss Lost
+Number Guessing - Won
+Dice Roll - 2
+Python Quiz - 5/5
