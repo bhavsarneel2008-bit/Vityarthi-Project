@@ -86,7 +86,7 @@ To run this project, you need:
 
 No external packages are required.
 
-## How to Run
+> How to Run
 
 Open the project folder in PowerShell or Command Prompt.
 
@@ -117,20 +117,20 @@ The main menu will appear.
 
 Enter the number corresponding to the activity you want to use.
 
-## Score Storage
+> Score Storage
 
 The project uses `scores.txt` to store game results.
 When a game is completed, the result is saved in the file.
 The View Scores option reads the file and displays the stored results.
 
-## Input Validation
+> Input Validation
 
 The project includes basic input validation.
 For example, Number Guessing checks whether the entered value is a valid number between 1 and 20.
 Tic Tac Toe checks whether the selected position is between 1 and 9 and whether the position is already occupied.
 The other games also check for valid choices.
 
-## Example Score History
+> Example Score History
 
 
 Coin Toss Won
@@ -141,7 +141,7 @@ Dice Roll 6
 Tic Tac Toe Player X Won
 
 
-## Future Improvements
+> Future Improvements
 
 The project can be improved in the future by adding:
 
@@ -155,7 +155,7 @@ The project can be improved in the future by adding:
 8. Database support
 9. Multiplayer features
 
-## Learning Outcomes
+> Learning Outcomes
 
 This project helped in understanding how to:
 
@@ -168,7 +168,7 @@ This project helped in understanding how to:
 7. Read and write files
 8. Build a complete Python application
 
-## Author
+> Author
 
 Name:Neel Bhavsar
 Registration Number: 26BAC10008
@@ -176,6 +176,6 @@ Course: Introduction to Problem Solving and Programming
 Course code:CSE1021
 Academic Year: 2026
 
-## License
+> License
 
 This project was created for educational and academic purposes.
